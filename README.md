@@ -15,7 +15,6 @@ de uma QA Analyst em um projeto real.
 ---
 
 ## 🗂️ Estrutura do Repositório
-
 qa-buscador-filmes/
 ├── test-cases/
 │   ├── CT001-busca-por-nome.md
